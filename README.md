@@ -44,6 +44,7 @@ private.
 A local-first AI workspace for software projects. The public repository is a
 product overview; implementation and operational infrastructure remain private.
 
+- [Solara website](https://usesolara.pages.dev/)
 - [Project overview](https://majdbenchobba.github.io/solara.html)
 
 ### Qrib
