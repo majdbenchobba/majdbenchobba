@@ -4,9 +4,10 @@ Electrical engineer building software across audio, automation, energy, and
 technical tooling. I work mainly with C++, JUCE, Python, PLC systems, and
 web-based engineering applications.
 
-I am the founder of [Solarna Systems](https://solarnasystems.com/) and I am
-currently completing an MSc thesis project on a virtual analog synthesizer.
-The thesis manuscript and degree are not yet complete.
+I am the founder of [Solarna Systems](https://solarnasystems.com/). I completed
+a BSc in Electrical Engineering and later pursued MSc studies in Computer
+Science Engineering. The MSc programme is currently paused, and the degree was
+not conferred.
 
 ## Selected work
 
@@ -15,10 +16,11 @@ The thesis manuscript and degree are not yet complete.
 A C++/JUCE virtual analog synthesizer targeting Windows VST3 and Standalone
 formats. It includes a polyphonic voice engine, dual oscillators, modulation,
 effects, preset/state handling, and automated DSP, processor, and spectral
-checks.
+checks. Cynth began as an MSc thesis project and now continues as an
+independently maintained audio-software project.
 
-The source repository remains private while the thesis and licensing decisions
-are unfinished. No thesis PDF is publicly distributed.
+The source repository remains private while licensing and publication decisions
+are unfinished. No MSc thesis manuscript or PDF is publicly distributed.
 
 ### Solarna Systems
 
@@ -27,6 +29,15 @@ software.
 
 - [Business and engineering overview](https://majdbenchobba.github.io/solarna.html)
 - [Solarna Systems website](https://solarnasystems.com/)
+
+### SolarnaPV
+
+A live solar-PV engineering application for site analysis, orientation
+comparison, PVGIS benchmarking, saved projects, and actual-versus-estimated
+production review. The application is public to use; its source remains
+private.
+
+- [Open SolarnaPV](https://pv.solarnasystems.com/)
 
 ### Solara
 
@@ -39,6 +50,8 @@ product overview; implementation and operational infrastructure remain private.
 
 A multilingual delivery-marketplace prototype for Tunisia, covering customer,
 restaurant, rider, and owner workflows with fictional demonstration data.
+
+- [Public overview](https://github.com/majdbenchobba/qrib)
 
 ### Public utilities
 
@@ -54,9 +67,10 @@ restaurant, rider, and owner workflows with fictional demonstration data.
 
 ## Current focus
 
-- finishing and validating the Cynth MSc thesis project
+- maintaining and validating Cynth as an independent audio-software project
 - electrical and solar-engineering software
 - safe, reviewable AI-assisted development tools
+- funded graduate, research, and engineering opportunities
 - reproducible technical experiments and automation
 
 ## Languages and tools
