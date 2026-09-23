@@ -39,6 +39,17 @@ private.
 
 - [Open SolarnaPV](https://pv.solarnasystems.com/)
 
+### BiasForge
+
+A market-research and trading-analysis workspace covering chart tools,
+benchmark comparisons, macroeconomic-event research, and trade-review
+workflows. The public repository is a product overview; application source,
+trading logic, and operational data remain private while the platform is under
+active development.
+
+- [BiasForge website](https://biasforge.com/)
+- [Public project overview](https://github.com/majdbenchobba/biasforge)
+
 ### Solara
 
 A local-first AI workspace for software projects. The public repository is a
@@ -70,6 +81,7 @@ restaurant, rider, and owner workflows with fictional demonstration data.
 
 - maintaining and validating Cynth as an independent audio-software project
 - electrical and solar-engineering software
+- market-research and trading-analysis tooling
 - safe, reviewable AI-assisted development tools
 - funded graduate, research, and engineering opportunities
 - reproducible technical experiments and automation
